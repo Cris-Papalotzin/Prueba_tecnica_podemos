@@ -1,20 +1,12 @@
-░░░░░░░░░░░░░░░░░░░░░Prueba técnica Podemos progresar: SIMULACIÓN DE EVENTOS ESPACIALES
-░░░░░░░░░░░░░░░░░░░░░
-░░████░░░░░░████░░░░░AUTOR: Cuevas Papalotzin H. Cristina
-░░█░░███░████░░██░░░░
-░░██░░░███░░░░░░█░░░░
-░░░██████████████░░░░DESCRIPCIÓN:
-░░░░░░░░█░░░░░░░░░░░░Este proyecto  utiliza pyspark para simular eventos espaciales (como eventos lunares, eclipses, asteroides, etc.)
-░░░░░░░░█░░░░░░░░░░░░y los organiza en un DataMart para su posterior análisis.
-░░░████░██░░░░░░░░░░░Con el objetivo es crear un esquema dimensional que permita realizar consultas eficientes sobre los eventos.
-░░█░░█████░░░░░░░░░░░
-░░████░░░█░░░░░░░░░░░
-░░░░░░░░░█░░░░░░░░░░░
-░░░░░░░███░░░░░░░░░░░
-░░░░░░██░██░░░░░░░░░░
-░░░░░██░░░██████░░░░░
-░░░███░░░░░░░░░██░░░░
-░░░█████████████░░░░░
+Prueba técnica Podemos progresar: SIMULACIÓN DE EVENTOS ESPACIALES
+
+AUTOR: Cuevas Papalotzin H. Cristina
+
+DESCRIPCIÓN:
+Este proyecto  utiliza pyspark para simular eventos espaciales (como eventos lunares, eclipses, asteroides, etc.)
+y los organiza en un DataMart para su posterior análisis.
+Con el objetivo es crear un esquema dimensional que permita realizar consultas eficientes sobre los eventos.
+
 
 -----------------------FLUJO DE DATOS DESDE LA SIMULACIÓN HASTA EL DATAMART-----------------
 
